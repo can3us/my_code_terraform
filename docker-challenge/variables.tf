@@ -1,3 +1,4 @@
+# i got this block of code from tfvars-tf variables.tf
 variable "container_name" {
   description = "containers name"
   type        = string
